@@ -16,4 +16,6 @@ curl -d "a=1&b=2&c=3" https://teensy.herokuapp.com/add
 
 All joking aside, this can easily be deployed to Heroku and/or your favorite server of choice. 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 [^1]: You could also use bundle exec ruby app.rb
