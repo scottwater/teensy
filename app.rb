@@ -14,7 +14,7 @@ end
 
 post '/add' do 
   params
-    .values #demo only!
+    .values # demo only!
     .map{|n| n&.match?(/\d+/) ? n.to_i : 0} # numbers please
     .sum # add them up
     .to_s # otherise, this is the status code
