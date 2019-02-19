@@ -7,6 +7,8 @@ To use:
 2. bundle
 3. bundle exec rackup config.ru[^1]
 
+To add your own functions, edit app.rb.
+
 # Example Code
 
 ```shell 
