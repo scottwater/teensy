@@ -5,11 +5,11 @@ Bundler.setup
 require 'sinatra'
 
 get '/' do 
-  "Hello serverless world"
+  "Hello From Teensy"
 end
 
 get '/:name' do 
-  "HELLO #{params[:name]}"
+  "Teensy says hello #{params[:name]}"
 end
 
 post '/add' do 

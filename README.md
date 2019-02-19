@@ -1,4 +1,4 @@
-# Teeny - The Ultra Minimalist Ruby Serverless Framework
+# Teensy - The Ultra Minimalist Ruby Serverless Framework
 ## Venture Capitalist: Please send bids to money@scottw.com
 
 To use: 
